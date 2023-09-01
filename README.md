@@ -10,7 +10,7 @@ The code is designed to provide insights into how various factors, such as housi
 
 * Data Preprocessing 
 
-* Data Visualization
+* Data Visualization of - Factors Affecting Home Prices Over The Last 20 years.
 
 * Machine Learning Model
 
